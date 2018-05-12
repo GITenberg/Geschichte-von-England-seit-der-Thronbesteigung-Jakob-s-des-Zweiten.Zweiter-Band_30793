@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/443
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Babington_Macaulay,_1st_Baron_Macaulay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30793#Geschichte-von-England-seit-der-Thronbesteigung-Jakob-s-des-Zweiten.Zweiter-Band
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2009-12-29'
 gutenberg_type: Text
